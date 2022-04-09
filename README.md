@@ -1,20 +1,7 @@
 ### Hi there 👋 I'm Francesca!
-I’m currently studing the big world of Software Engineering and It Management at University of Salerno to get the master's degree in Computer Science. 
+I’m currently studing the big world of Software Engineering and It Management at University of Salerno to achieve the master's degree in Computer Science. I like programming, cycling, discovering new places and at last but not least I like writing README files 😁. I hope you can seek inspiration in my repositories. If you want, you can reach me on LinkedIn [here](https://www.linkedin.com/in/francesca-perillo-671939199/). 
 
-
-### 📫 How to reach me:
-University email:
-```
-f.perillo11@studenti.unisa.it
-```
-Personal email:
-```
-francescaperillo15@gmail.com
-```
-LinkedIn:
-```
-https://www.linkedin.com/in/francesca-perillo-671939199/
-```
+Have a good life 🍀!
 
 <!--
 **francesca-perillo/francesca-perillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
